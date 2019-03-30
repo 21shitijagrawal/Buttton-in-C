@@ -1,4 +1,6 @@
 /*This function is created by Mr.Shitij Agrawal*/
+#include<dos.h>
+#include<graphics.h>
 int button(int x1,int y1,int x2,int y2,char text[],int color,int size,int font);
 int button(int x1,int y1,int x2,int y2,char text[],int color,int size,int font)
 {
