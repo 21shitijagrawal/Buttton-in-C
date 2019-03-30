@@ -1,0 +1,5 @@
+follow the following instruction for the turbo c
+1.put the button.h in include folder
+2.put the creat_button.c in bin folder
+3.open the turbo-c and link the graphics library
+4.open the program creat_button.c and run
