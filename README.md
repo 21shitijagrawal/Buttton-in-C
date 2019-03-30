@@ -1,6 +1,6 @@
 # Buttton-in-C
-This library is created by Mr.shitij agrawal
-This library uses the function of graphics.h,dos.h, conio.h and stdio.h
+This function is created by Mr.shitij agrawal
+This function uses the function of graphics.h,dos.h, conio.h and stdio.h
 In the button function you should pass the starting x and y co-ordinates of the button and thenpass the last x and y co-ordinates
 after it you should pass the name of button and then pass the color text in integer form after it pass the size of the text and then pass the font of the text in integer format
 after it function call look like this  : 
