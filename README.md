@@ -5,3 +5,4 @@ after it you should pass the name of button and then pass the color text in inte
 after it function call look like this  : 
 button(int x1,int y1,int x2,int y2,char text[],int color,int size,int font)
 you should put the function in infinity loop to check the mouse movement continiously
+it return the value 1 if the button is pressed and return 0 if button is not pressed
