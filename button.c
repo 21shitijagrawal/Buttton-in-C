@@ -1,4 +1,4 @@
-/*This library is created by Mr.Shitij Agrawal*/
+/*This function is created by Mr.Shitij Agrawal*/
 int button(int x1,int y1,int x2,int y2,char text[],int color,int size,int font);
 int button(int x1,int y1,int x2,int y2,char text[],int color,int size,int font)
 {
